@@ -6,7 +6,7 @@
 ### languageBasic/
 `` 存放各编程语言的使用及中高级编程应用``
 
-### moduleUsecase/
+### componentUsecase/
 `` 存放对各种组件服务等使用及注意及代码示例(基于当前学过的编程语言)`` 
 
 ### networkProgramming/
@@ -14,3 +14,6 @@
 
 ### requirements.txt
 `` 当前仓库中所有python使用的库``
+
+### tags.yml
+`` 设置了各种标签, 仓库中的源代码和文件开头都会设置标签，通过标签方便快速寻找``

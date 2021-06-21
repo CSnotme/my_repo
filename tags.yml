@@ -1,0 +1,38 @@
+
+languages:
+  python
+  go
+
+databases:
+  mysql
+  oracle
+  mongo
+  redis
+  sqlite
+  postgres
+
+component:
+  celery
+  minio
+  mqtt
+
+framework:
+  django
+  flask
+  scrapy
+  scrapy-redis
+  beego
+  gin
+  fastapi
+  sanic
+
+network:
+  tcp
+  udp
+  coap
+  icmp
+  http
+  smtp
+  ftp
+
+

@@ -4,7 +4,7 @@
 @File        : time_decoration.py
 @Time        : 2021/6/21 19:02
 @Author      : caoyf
-@Tags        : python
+@Tags        : <python>
 
 @Description : 时间装饰器
 """
